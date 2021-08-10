@@ -24,7 +24,7 @@ namespace H3_Webserver
         // To see other types: http://www.webmaster-toolkit.com/mime-types.shtml
         private Dictionary<string, string> extensions = new Dictionary<string, string>()
 { 
-    //{ "extension", "content type" }
+        //{ "extension", "content type" }
         { "htm", "text/html" },
         { "html", "text/html" },
         { "xml", "text/xml" },
